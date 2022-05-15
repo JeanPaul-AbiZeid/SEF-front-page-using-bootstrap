@@ -48,6 +48,8 @@
 
 .a-style {
     color: white;
+    font-size: calc((1.05 - 1) * 1.2vw + 1rem);
+    font-weight: 500;
 }
 
 .logo-container {
@@ -68,6 +70,9 @@
     cursor: pointer;
     width: 8%;
     padding: 1%;
+}
+.green-button:hover {
+    background-color: rgb(0, 148, 0);
 }
 
 .h1-content {
