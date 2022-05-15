@@ -160,6 +160,14 @@
     padding-bottom: 3.5%;
     border-bottom: black solid 1px;
 }
+.strategic-partners-container {
+    margin-top: 2%;
+    margin-bottom: 2%;    
+}
+.strategic-partners-title {
+    margin-bottom: 2%;
+}
+
 .h1-data {
     text-align: center;
     color: #25e200;
