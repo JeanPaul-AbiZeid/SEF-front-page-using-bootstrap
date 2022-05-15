@@ -136,7 +136,9 @@
     margin-top: 5%;
     margin-bottom: 5%;
 }
-
+.quote-image {
+    width: 55%;
+}
 .h1-data {
     text-align: center;
     color: #25e200;
