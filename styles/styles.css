@@ -136,11 +136,15 @@
     margin-top: 5%;
     margin-bottom: 5%;
 }
+.rp-image {
+    width: 95%;
+    padding: 1%;
+}
 .quote-image {
     width: 55%;
 }
 .media-section {
-    margin-top: 5%;
+    margin-top: 2%;
     margin-bottom: 5%;
     background: #e6e6e6;
     padding-top: 5%;
