@@ -143,6 +143,12 @@
     margin-right: 10%;
     padding-bottom: 5%;
 }
+@media screen and (max-width: 770px) {
+    .data-section {
+        flex-direction: column;
+        align-items: center;
+    }
+}
 
 .ads-section {
     box-sizing: border-box;
@@ -169,6 +175,19 @@
 }
 .program-image-2 {
     width: 80%;
+}
+@media screen and (max-width: 770px) {
+    .program-section {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .program-image-1{
+        width: 100%;
+    }
+    .program-image-2 {
+        width: 100%;
+    }
 }
 .graduates-section {
     box-sizing: border-box;
@@ -199,6 +218,13 @@
 .media-title-container{
     padding-bottom: 3%;
 }
+@media screen and (max-width: 770px) {
+    .media-images {
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+}
 .partners-section {
     margin-top: 3%;
 }
@@ -222,6 +248,12 @@
 }
 .image-style {
     width: 100%;
+}
+@media screen and (max-width: 770px) {
+    .strategic-partners-image-container {
+        display: flex;
+        flex-direction: column;
+    }
 }
 .newsletter-section {
     background: #e6e6e6;
