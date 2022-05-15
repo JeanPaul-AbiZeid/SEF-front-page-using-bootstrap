@@ -122,7 +122,15 @@
 .program-section {
     background-color: #25e200;
     align-items: center;
+    padding-top: 3%;
     padding-bottom: 3%;
+}
+.program-image-1 {
+    width: 80%;
+    float: right;
+}
+.program-image-2 {
+    width: 80%;
 }
 .graduates-section {
     box-sizing: border-box;
@@ -224,6 +232,7 @@
     font-size: calc((3 - 1) * 1.2vw + 1rem);
     line-height: 1.196;
     font-weight: 400;
+    margin-bottom: 3%;
 }
 
 .h4-rp-section {
