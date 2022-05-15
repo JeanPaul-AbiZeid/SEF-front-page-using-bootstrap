@@ -149,6 +149,17 @@
 .media-title-container{
     padding-bottom: 3%;
 }
+.partners-section {
+    margin-top: 3%;
+}
+.partners-title-contianer {
+    margin-bottom: 2%;
+}
+.partners-image {
+    width: 90%;
+    padding-bottom: 3.5%;
+    border-bottom: black solid 1px;
+}
 .h1-data {
     text-align: center;
     color: #25e200;
